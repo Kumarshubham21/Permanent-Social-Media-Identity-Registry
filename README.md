@@ -23,6 +23,7 @@ To create a decentralized, immutable, and trustworthy identity layer for Web3 th
 - NFT-based identity badges.
 - Multi-identity support for different platforms.
 contract Addreess: 0x87e3d1c9A6cd6B9D9AAf3df80f6532D91DC264c3
-![Uploading image.png…]()
+
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/9f609797-056a-4bbb-8602-231ab5857adc" />
 
 
